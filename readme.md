@@ -2,10 +2,10 @@
 ***
 
 when you click a item on navbar,page will sroll to the corresponding content . inversely . when you sroll to the page . anchor menu will show which part on the viewport .
+
 tested : ie9 . chrome .
 
 #### USAGE
-easy to use
 
 ```bash
     <script src="js/zAnchorScroll.min.js"></script>
