@@ -16,10 +16,10 @@ tested : ie9 . chrome .
         var alis = document.querySelectorAll('.side>ul')[0];
 
         zAnchorScroll({
-            anchorContainer: alis,
-            anchorTagName: 'li',
-            scrollContentContainer: aSections,
-            scrollTagName: 'section'
+            anchorContainer: alis (parentNode of anchors items ),
+            anchorTagName: 'li' (tagname of anchors items),
+            scrollContentContainer: aSections (parentNode of Sections),
+            scrollTagName: 'section' (tagname of sections)
         });
     </script>
 ```
