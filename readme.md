@@ -5,6 +5,8 @@ when you click a item on navbar,page will sroll to the corresponding content . i
 
 tested : ie9 . chrome .
 
+#### demo : [http://17x.github.io/makeWheel/zAnchorMenuScroll/](http://17x.github.io/makeWheel/zAnchorMenuScroll/)
+
 #### USAGE
 
 ```bash
