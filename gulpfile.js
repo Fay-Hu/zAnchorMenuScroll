@@ -43,10 +43,10 @@ gulp.task('uglifyjs', function() {
         gulp.src('src/js/**/*.js'), //源路径
         sourcemaps.init(), //开启sourcemaps
         uglify(), //压缩混淆
-        concat('index.min.js'), //添加后缀
-        /*rename({
+        // concat('index.min.js'), //添加后缀
+        rename({
             suffix: '.min'
-        }),*/
+        }),
         sourcemaps.write('./'), //输出sourcemaps
         gulp.dest('dist/js/') //输出文件
     ])
