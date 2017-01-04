@@ -1,7 +1,7 @@
 ### zAnchorMenuScroll
 ***
 
-when you click a item on navbar , page will sroll to the corresponding section . inversely . when you sroll to the page . the menu will highlight the section that appears in the viewport .
+when you click a item on navbar , page will sroll to the corresponding section . inversely . when you sroll to the page The menu highlights the corresponding anchor for that section in the viewport.
 
 tested : ie9 . chrome .
 
