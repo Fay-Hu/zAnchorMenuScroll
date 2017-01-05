@@ -1,6 +1,7 @@
 /* name : zAnchorScroll */
 /* date : 2016-12-29 */
 /* author : Yahone */
+/* version : 1.0.0 */
 
 (function(window) {
     // expose for called
